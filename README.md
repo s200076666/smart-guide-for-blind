@@ -24,19 +24,28 @@ Set up steps:
 14.	SGB ready to use.
 
 
- # Video Demonstration
+# Project Title
 
-## Video 1
+## Introduction
+Brief project description.
+
+# Project Title
+
+## Introduction
+Brief project description.
+
+## Video Demonstration
+
+### Video 1
 
 <video width="320" height="240" controls>
   <source src="WhatsApp%20Video%202024-08-06%20at%204.16.09%20PM.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
-## Video 2
+### Video 2
 
 <video width="320" height="240" controls>
   <source src="WhatsApp%20Video%202024-08-06%20at%204.16.19%20PM.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-
